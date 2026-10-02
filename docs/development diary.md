@@ -2,5 +2,4 @@
 
 ## Week 1 
 -Installed GitHub Desktop\
--Gone through related algorithems
-
+-Studied and documented related algorithems\

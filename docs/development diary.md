@@ -1,7 +1,7 @@
 # Developer diary
 
 ## Week 1 
--Installed GitHub Desktop\
+Installed GitHub Desktop\
 -Studied and documented related algorithems\
 -Compiled the example .cpp to .dll and executed DLL\
 -Made project plan
@@ -11,10 +11,10 @@
 Answer: Map is unknown we will know 5x5 for us by using that we should find the flag and home.
 
 ## Week 2
--Implemented the agent and saw the host working
--Finalised the algorithm and the strategy and documented it
--Created software files 
--Understood the agent_api and stupid_agent and practiced 
+- Implemented the agent and saw the host working
+- Finalised the algorithm and the strategy and documented it
+- Created software files 
+- Understood the agent_api and stupid_agent and practiced 
 
 - Queries:
 1. Furthere rules of API will be updated ?

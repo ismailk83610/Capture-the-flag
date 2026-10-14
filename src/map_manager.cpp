@@ -1,0 +1,1 @@
+//Remembers the environment by Dynamic map storage

@@ -18,8 +18,11 @@ Answer: Map is unknown we will know 5x5 for us by using that we should find the 
 
 - Queries:
 1. Furthere rules of API will be updated ?
+<<<<<<< HEAD
 
 ## Week 3
 - Selected the software planning methodolgy: Agile with Kanban framework (project definition and project management)
 - Created Agile iterations and kanban in GitHub
 - Created Gantt chart
+=======
+>>>>>>> fb1edcf26557cde327691ff6f8449996799cd566

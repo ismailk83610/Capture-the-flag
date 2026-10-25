@@ -23,3 +23,6 @@ Answer: Map is unknown we will know 5x5 for us by using that we should find the 
 - Selected the software planning methodolgy: Agile with Kanban framework (project definition and project management)
 - Created Agile iterations and kanban in GitHub
 - Created Gantt chart
+
+## Week 4
+- Literature survey - Frontier exporation, Information gain
